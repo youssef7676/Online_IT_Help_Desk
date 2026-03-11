@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Domain\\IT_Help_Desk.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Domain\\IT_Help_Desk.Domain.csproj",
       "projectName": "IT_Help_Desk.Domain",
-      "projectPath": "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Domain\\IT_Help_Desk.Domain.csproj",
+      "projectPath": "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Domain\\IT_Help_Desk.Domain.csproj",
       "packagesPath": "C:\\Users\\mosal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Domain\\obj\\",
+      "outputPath": "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

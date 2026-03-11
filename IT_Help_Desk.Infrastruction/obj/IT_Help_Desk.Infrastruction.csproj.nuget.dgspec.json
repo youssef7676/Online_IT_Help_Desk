@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Infrastruction\\IT_Help_Desk.Infrastruction.csproj": {}
+    "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Infrastruction\\IT_Help_Desk.Infrastruction.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Application\\IT_Help_Desk.Application.csproj": {
+    "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Application\\IT_Help_Desk.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Application\\IT_Help_Desk.Application.csproj",
+        "projectUniqueName": "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Application\\IT_Help_Desk.Application.csproj",
         "projectName": "IT_Help_Desk.Application",
-        "projectPath": "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Application\\IT_Help_Desk.Application.csproj",
+        "projectPath": "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Application\\IT_Help_Desk.Application.csproj",
         "packagesPath": "C:\\Users\\mosal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Application\\obj\\",
+        "outputPath": "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Domain\\IT_Help_Desk.Domain.csproj": {
-                "projectPath": "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Domain\\IT_Help_Desk.Domain.csproj"
+              "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Domain\\IT_Help_Desk.Domain.csproj": {
+                "projectPath": "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Domain\\IT_Help_Desk.Domain.csproj"
               }
             }
           }
@@ -107,14 +107,14 @@
         }
       }
     },
-    "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Domain\\IT_Help_Desk.Domain.csproj": {
+    "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Domain\\IT_Help_Desk.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Domain\\IT_Help_Desk.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Domain\\IT_Help_Desk.Domain.csproj",
         "projectName": "IT_Help_Desk.Domain",
-        "projectPath": "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Domain\\IT_Help_Desk.Domain.csproj",
+        "projectPath": "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Domain\\IT_Help_Desk.Domain.csproj",
         "packagesPath": "C:\\Users\\mosal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Domain\\obj\\",
+        "outputPath": "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -172,14 +172,14 @@
         }
       }
     },
-    "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Infrastruction\\IT_Help_Desk.Infrastruction.csproj": {
+    "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Infrastruction\\IT_Help_Desk.Infrastruction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Infrastruction\\IT_Help_Desk.Infrastruction.csproj",
+        "projectUniqueName": "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Infrastruction\\IT_Help_Desk.Infrastruction.csproj",
         "projectName": "IT_Help_Desk.Infrastruction",
-        "projectPath": "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Infrastruction\\IT_Help_Desk.Infrastruction.csproj",
+        "projectPath": "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Infrastruction\\IT_Help_Desk.Infrastruction.csproj",
         "packagesPath": "C:\\Users\\mosal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Infrastruction\\obj\\",
+        "outputPath": "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Infrastruction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -200,8 +200,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Application\\IT_Help_Desk.Application.csproj": {
-                "projectPath": "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Application\\IT_Help_Desk.Application.csproj"
+              "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Application\\IT_Help_Desk.Application.csproj": {
+                "projectPath": "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Application\\IT_Help_Desk.Application.csproj"
               }
             }
           }

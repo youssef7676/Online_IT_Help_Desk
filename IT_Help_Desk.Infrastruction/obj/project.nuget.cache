@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pmWiu1MPoFI=",
+  "dgSpecHash": "iW5HWotzDz0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mosal\\OneDrive\\Desktop\\IT_Help_Desk.Infrastruction\\IT_Help_Desk.Infrastruction.csproj",
+  "projectFilePath": "C:\\Users\\mosal\\OneDrive\\Desktop\\Online_IT_Help_Desk\\IT_Help_Desk.Infrastruction\\IT_Help_Desk.Infrastruction.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mosal\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\mosal\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
