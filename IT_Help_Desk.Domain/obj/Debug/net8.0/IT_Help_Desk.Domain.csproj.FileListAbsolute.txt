@@ -1,0 +1,11 @@
+C:\Users\mosal\OneDrive\Desktop\IT_Help_Desk.Domain\bin\Debug\net8.0\IT_Help_Desk.Domain.deps.json
+C:\Users\mosal\OneDrive\Desktop\IT_Help_Desk.Domain\bin\Debug\net8.0\IT_Help_Desk.Domain.dll
+C:\Users\mosal\OneDrive\Desktop\IT_Help_Desk.Domain\bin\Debug\net8.0\IT_Help_Desk.Domain.pdb
+C:\Users\mosal\OneDrive\Desktop\IT_Help_Desk.Domain\obj\Debug\net8.0\IT_Help_Desk.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosal\OneDrive\Desktop\IT_Help_Desk.Domain\obj\Debug\net8.0\IT_Help_Desk.Domain.AssemblyInfoInputs.cache
+C:\Users\mosal\OneDrive\Desktop\IT_Help_Desk.Domain\obj\Debug\net8.0\IT_Help_Desk.Domain.AssemblyInfo.cs
+C:\Users\mosal\OneDrive\Desktop\IT_Help_Desk.Domain\obj\Debug\net8.0\IT_Help_Desk.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mosal\OneDrive\Desktop\IT_Help_Desk.Domain\obj\Debug\net8.0\IT_Help_Desk.Domain.dll
+C:\Users\mosal\OneDrive\Desktop\IT_Help_Desk.Domain\obj\Debug\net8.0\refint\IT_Help_Desk.Domain.dll
+C:\Users\mosal\OneDrive\Desktop\IT_Help_Desk.Domain\obj\Debug\net8.0\IT_Help_Desk.Domain.pdb
+C:\Users\mosal\OneDrive\Desktop\IT_Help_Desk.Domain\obj\Debug\net8.0\ref\IT_Help_Desk.Domain.dll

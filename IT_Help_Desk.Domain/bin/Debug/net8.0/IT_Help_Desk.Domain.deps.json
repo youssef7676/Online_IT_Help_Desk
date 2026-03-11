@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IT_Help_Desk.Domain/1.0.0": {
+        "runtime": {
+          "IT_Help_Desk.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IT_Help_Desk.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
